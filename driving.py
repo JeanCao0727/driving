@@ -7,3 +7,8 @@ if country == 'China':
 		print('Yes')
 	else:
 		print('No')
+elif country == 'US':
+	if age >= 18:
+		print ("Yes")
+	else:
+		print('No')
